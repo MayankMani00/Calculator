@@ -1,3 +1,3 @@
 # Calculator
 
-![alt text]https://github.com/MayankMani00/Calculator/blob/master/calc/Calc.png
+![alt text]https://raw.githubusercontent.com/MayankMani00/Calculator/blob/master/calc/Calc.png
