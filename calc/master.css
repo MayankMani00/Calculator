@@ -1,0 +1,56 @@
+body {
+    text-align: center !important;
+}
+
+.calc-body {
+    text-align: center;
+    display: inline-block;
+}
+
+.display {
+    margin-bottom: 2rem;
+    max-width: 28rem;
+    max-height: 8rem;
+    border: solid 1px;
+    font-size: 3rem;
+    width: 28rem;
+    height: 8rem;
+    text-overflow: ellipsis;
+}
+
+.key {
+    height: 8rem;
+    width: 7rem;
+    text-decoration-color: #000;
+    border: none;
+}
+
+.key:hover {
+    background-color: #c0c0c0;
+}
+
+.left-row {
+    width: 21rem;
+}
+
+.right-row {
+    width: 7rem;
+}
+
+.right-col {
+    width: 7rem ;
+}
+
+.pressed {
+    background-color: #666666;
+    border: none;
+}
+
+.right-btn {
+    height: 6.4rem ;
+    background-color: #ff9900 ;
+}
+
+.right-btn:hover {
+    background-color: #cc7a00 ;
+}
